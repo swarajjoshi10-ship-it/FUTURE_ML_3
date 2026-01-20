@@ -1,3 +1,5 @@
+
 dialogflow_key.json
-__pycache__/
 .env
+__pycache__/
+venv/
