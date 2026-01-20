@@ -29,14 +29,6 @@ This project focuses on **real-world conversational AI**, cloud integration, and
 ## 🧠 System Architecture
 User → Streamlit / Telegram → Dialogflow → Intent Detection → Response
 
-futureinterns_3/
-│
-├── app.py
-├── telegram_bot.py
-├── .env
-├── .gitignore
-├── requirements.txt
-└── README.md
 
 ## ▶️ How to Run Locally
 
